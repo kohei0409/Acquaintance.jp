@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e44513bd-2e94-4544-bb9d-d26ca7f94d0b" name="ftp@acquaintance.jp" url="https://www.acquaintance.jp">
+        <fileTransfer rootFolder="/acquaintance.jp/public_html" host="sv13228.xserver.jp" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
